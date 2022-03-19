@@ -15,3 +15,5 @@ body::before {
   border-bottom: 2px solid black;
   content: "Error: Expected string.\a   \2577 \a 1 \2502  @use header\d\a   \2502       ^\a   \2575 \a   sass\\style.sass 1:6  root stylesheet";
 }
+
+@import "footer"

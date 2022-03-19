@@ -1,3 +1,26 @@
+header
 
+	.background-image
+		width: 100%
+		height: 740px
+		background-image: url(../media/footerback.png)
+	h1
+		font-family: 'Oswald'
+		font-style: normal
+		font-weight: 500
+		font-size: 64px
+		line-height: 95px
+		text-align: center
+		letter-spacing: 0.02em
+		text-transform: uppercase
 
-/*# sourceMappingURL=footer.css.map */
+	p
+		font-family: 'Oswald'
+		font-style: normal
+		font-weight: 400
+		font-size: 18px
+		line-height: 27px
+		text-align: center
+		text-transform: uppercase
+		color: white
+
